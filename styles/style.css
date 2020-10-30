@@ -11,8 +11,8 @@ body {
 }
 
 .container {
-  -webkit-animation: vb 3s ease;
-          animation: vb 3s ease;
+  -webkit-animation: vb 3s 0.6s ease;
+          animation: vb 3s 0.6s ease;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
